@@ -1,5 +1,5 @@
 # universe ✨
-everything about ink, in one place
+everything about ink, in one place.
 ## what is ink?
 ## getting started
 ## channels
