@@ -5,8 +5,10 @@ ink is a decentralized social media protocol built on top of the ethereum blockc
 ## getting started
 ## channels
 where you can find us.
+- [twitter](https://twitter.com/viaink)
 - [discord](https://discord.gg/DQQp48kUvU)
 - [github](https://github.com/inkapp)
+- [medium](https://medium.com/@inkdao)
 ## wallets
 to use ink, you need a wallet! here are a few of the most popular.
 - [rainbow](https://rainbow.me)
