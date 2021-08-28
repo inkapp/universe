@@ -1,7 +1,10 @@
 # universe ✨
 everything about ink, in one place.
 ## what is ink?
-ink is a decentralized social media protocol built on top of the ethereum blockchain.
+ink is a decentralized social media protocol built on top of the ethereum blockchain
+we are building the next generation of social media on ethereum, 
+launching a decentralised and transparent social platform free from the shackles of traditional
+social media platforms."
 ## getting started
 ## channels
 where you can find us.
