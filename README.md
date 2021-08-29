@@ -10,10 +10,15 @@ ink is a decentralized social media protocol built on top of the ethereum blockc
 - ...
 
 ## the $INK token
+
 ### distribution
 <img width="679" alt="inkdao" src="https://user-images.githubusercontent.com/73405337/131247936-51eda80a-3e65-46a8-ab6f-0ee13c59d16c.png">
+
 ### burn
-![Ink transaction](https://user-images.githubusercontent.com/73405337/131247953-7f4c663a-353b-4664-8379-ddb4a85f0219.png)
+![Ink transaction](https://user-images.githubusercontent.com/73405337/131247968-f212024c-13aa-42ec-9ebe-68594f832566.png)
+
+
+
 ## channels
 where you can find us.
 - [twitter](https://twitter.com/viaink)
