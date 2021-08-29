@@ -3,6 +3,12 @@ everything about ink, in one place.
 ## what is ink?
 ink is a decentralized social media protocol built on top of the ethereum blockchain.
 ## getting started
+- signup 
+- making your first post
+- tipping ink
+- governance
+- ...
+
 ## channels
 where you can find us.
 - [twitter](https://twitter.com/viaink)
