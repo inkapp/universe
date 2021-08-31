@@ -9,7 +9,7 @@ ink is a decentralized social media protocol built on top of the ethereum blockc
 - governance
 - ...
 
-## the $INK token
+## $INK / governance
 
 ### distribution
 <img width="679" alt="inkdao" src="https://user-images.githubusercontent.com/73405337/131247936-51eda80a-3e65-46a8-ab6f-0ee13c59d16c.png">
@@ -29,6 +29,7 @@ where you can find us.
 to use ink, you need a wallet! here are a few of the most popular.
 - [rainbow](https://rainbow.me)
 - [metamask](https://metamask.io)
+- [argent](https://argent.xyz)
 ## how to contribute
 ink is open-source, which means anyone can contribute to make it better and more enjoyable to use.
 you can contribute by:
